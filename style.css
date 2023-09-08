@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;  
+    overflow-x: hidden;
+    background-color: #926239;
+}
+
+header {
+    background-image: url('./Assets/beachshowcase.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+div {
+    width: 70vw;
+    margin: 0 auto;
+    padding-top: 40vh;
+    text-align: center;
+    color: #926239;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.5em;
+}
+
+.button {
+    border: 1px solid #926239;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5vh;
+}
+
+#slogan {
+    margin-top: 2vh;
+}
+
+.choco {
+    background-color: #926239;
+    color: #f4f4f4;
+}
+
+.milky {
+    background-color: #f4f4f4;
+    color: #926239;
+}
+
+.paragraph {
+    font-size: 0.9em;
+    padding: 1em;
+    line-height: 1.5em;
+    margin: 0;
+}
+
+.centre {
+    text-align: center;
+}
+
+.column {
+    display: inline-block;
+    width: 32.5vw;
+    
+}
